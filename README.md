@@ -89,8 +89,4 @@ Assurez-vous de protéger les fichiers contenant les clés (`secret.key`, `maste
 
 ## Auteurs
 
-Ce projet a été réalisé par [Votre Nom].
-
-## License
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce projet a été réalisé par Clément Piquenet.
